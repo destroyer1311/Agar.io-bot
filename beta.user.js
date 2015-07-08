@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBotBeta
-// @namespace   AposBotBeta
+// @name        Srbin
+// @namespace  Srbin1337
 // @include     http://agar.io/
 // @version     3.4
 // @grant       none
